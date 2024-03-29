@@ -1,2 +1,2 @@
 # shopping-list
-This is a shopping list web app. The user will be able to type something that they need to buy and add to the list, as well as remove it whenever they want to.
+This project is part of the Frontend Career Path on [Scrimba](https://scrimba.com/). It is a shopping list web app. The user will be able to type something that they need to buy and add to the list, as well as remove it whenever they want to. In this, i learned the basics of Firebase and practiced my newly knowledges of Javascript. Check out the live version [here](https://lista-de-compras-web.netlify.app/) :D
